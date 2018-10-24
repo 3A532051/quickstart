@@ -1,12 +1,3 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: admin
- * Date: 2018/10/24
- * Time: 下午 05:01
- */
-
-// resources/views/common/errors.blade.php
 
 @if (count($errors) > 0)
     <!-- 表單錯誤清單 -->

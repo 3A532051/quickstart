@@ -10,7 +10,8 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+use App\Task;
+use Illuminate\Http\Request;
 
 /**
  * 顯示所有任務
