@@ -75,7 +75,7 @@
                                     {{ csrf_field() }}
                                     {{ method_field('DELETE') }}
 
-                                    <button>刪除任務</button>
+                                    <button>刪除現有任務</button>
                                 </form>
 
 
